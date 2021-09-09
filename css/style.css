@@ -1,0 +1,15 @@
+/*----mac book  image css-----*/
+.image-size{
+    width: 70%;
+}
+/*----button design css-----*/
+.btn-secondary {
+    background-color: #a9a9a9f2;
+}
+/*----promo code design css-----*/
+input#promo-code {
+    padding-bottom: 6px;
+}
+p#promo-fail {
+    display: none;
+}
